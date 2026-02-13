@@ -53,6 +53,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 - **[Pika](https://www.pika.art/)** – AI video generation from text or image prompts.
 - **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** – Animate diffusion model outputs.
 - **[Runway Gen-2](https://research.runwayml.com/gen2)** – Multi-modal AI video generation (image-to-video, text-to-video).
+- **[TubePrompter](https://tubeprompter.com/)** – Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more.
 
 ## AI Style Transfer
 
