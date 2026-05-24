@@ -78,6 +78,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 - **[LAION-5B](https://laion.ai/blog/laion-5b/)** – Large-scale image-text dataset used for training models like Stable Diffusion.
 - **[WikiArt Dataset](https://www.wikiart.org/)** – Artwork images covering multiple styles and time periods.
 - **[Flickr-Faces-HQ (FFHQ)](https://github.com/NVlabs/ffhq-dataset)** – High-quality human face dataset.
+- **[Generated Gallery AI Image Dataset](https://generatedgallery.com/ai-image-dataset)** – Metadata-only AI image and prompt index with JSONL exports, weak labels, provenance, and schema.
 
 ## Ethics & Copyright
 
