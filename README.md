@@ -37,6 +37,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 - **[Runway ML](https://runwayml.com/)** – Accessible AI tools for creatives: image, video, and animation generation.
 - **[NightCafe](https://creator.nightcafe.studio/)** – Online text-to-image art generator using popular models.
 - **[Artbreeder](https://www.artbreeder.com/)** – Blend and morph images collaboratively using generative networks.
+- **[LandscapioAI](https://www.landscapioai.com/)** – AI landscape and garden design generator that turns outdoor photos into redesign concepts.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Neural network visualizations and surreal artistic filters.
 - **[PaintsChainer](https://paintschainer.preferred.tech/index_en.html)** – AI auto-coloring tool for anime-style art.
 
