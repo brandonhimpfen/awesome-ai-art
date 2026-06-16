@@ -46,6 +46,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 - **[Midjourney](https://www.midjourney.com/)** – AI art generator using Discord interface for imaginative visual outputs.
 - **[DALL·E 3](https://openai.com/dall-e)** – Text-to-image model by OpenAI with inpainting and edit features.
 - **[Dream by Wombo](https://dream.ai/)** – Mobile-first generative art tool powered by AI.
+- **[Seedream AI Studio](https://seedream4.video/)** – Multi-model AI image generation by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena, supports up to 10 reference images, free tier available.
 
 ## AI Animation & Video
 
