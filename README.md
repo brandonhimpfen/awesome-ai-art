@@ -1,4 +1,4 @@
-# Awesome AI Art [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome AI Art [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -100,10 +100,10 @@ AI art merges machine learning, creativity, and visual expression — transformi
 
 ## Related Awesome Lists
 
-- **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai)**
-- **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)**
-- **[Awesome Diffusion Models](https://github.com/awesomelistsio/awesome-diffusion-models)**
-- **[Awesome AI](https://github.com/awesomelistsio/awesome-ai)**
+- **[Awesome Generative AI](https://github.com/brandonhimpfen/awesome-generative-ai)**
+- **[Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**
+- **[Awesome Diffusion Models](https://github.com/brandonhimpfen/awesome-diffusion-models)**
+- **[Awesome AI](https://github.com/brandonhimpfen/awesome-ai)**
 
 ## Contribute
 
