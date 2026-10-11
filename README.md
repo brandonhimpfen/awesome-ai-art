@@ -37,6 +37,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 
 - **[Runway ML](https://runwayml.com/)** – Accessible AI tools for creatives: image, video, and animation generation.
 - **[Raphael AI](https://raphael.app)** – Free AI creative workspace for text-to-image generation and visual production in the browser.
+- **[Sora2 Hub](https://sora2hub.org/)** – Browser-based AI image and video generator with many leading image and video models in one workspace.
 - **[NightCafe](https://creator.nightcafe.studio/)** – Online text-to-image art generator using popular models.
 - **[Artbreeder](https://www.artbreeder.com/)** – Blend and morph images collaboratively using generative networks.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Neural network visualizations and surreal artistic filters.
