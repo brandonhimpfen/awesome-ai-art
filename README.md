@@ -38,7 +38,9 @@ AI art merges machine learning, creativity, and visual expression — transformi
 - **[Runway ML](https://runwayml.com/)** – Accessible AI tools for creatives: image, video, and animation generation.
 - **[Raphael AI](https://raphael.app)** – Free AI creative workspace for text-to-image generation and visual production in the browser.
 - **[NightCafe](https://creator.nightcafe.studio/)** – Online text-to-image art generator using popular models.
+- **[PromptImage](https://promptimage.cloud/)** – Free AI image & video studio with a prompt library; signup credits, no card required.
 - **[Artbreeder](https://www.artbreeder.com/)** – Blend and morph images collaboratively using generative networks.
+- **[TeslaWraps](https://teslawraps.design/)** – Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free without an account (optional AI credits).
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Neural network visualizations and surreal artistic filters.
 - **[PaintsChainer](https://paintschainer.preferred.tech/index_en.html)** – AI auto-coloring tool for anime-style art.
 
@@ -53,6 +55,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 
 - **[Kaiber](https://www.kaiber.ai/)** – Text-to-video and music visualization tool for generative animation.
 - **[Pika](https://www.pika.art/)** – AI video generation from text or image prompts.
+- **[GrokVideo Studio](https://grokvideogenerator.dev/)** – Independent text/image-to-video generator using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
 - **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** – Animate diffusion model outputs.
 - **[Runway Gen-2](https://research.runwayml.com/gen2)** – Multi-modal AI video generation (image-to-video, text-to-video).
 
