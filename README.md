@@ -38,6 +38,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 - **[Runway ML](https://runwayml.com/)** – Accessible AI tools for creatives: image, video, and animation generation.
 - **[Raphael AI](https://raphael.app)** – Free AI creative workspace for text-to-image generation and visual production in the browser.
 - **[NightCafe](https://creator.nightcafe.studio/)** – Online text-to-image art generator using popular models.
+- **[AI Pose Gallery](https://aiposegallery.com/?utm_source=brandonhimpfen-awesome-ai-art&utm_medium=directory&utm_campaign=backlinks)** – Free pose-reference gallery for artists, plus optional AI pose generation from a photo or reference pose (one-time credit packs).
 - **[Artbreeder](https://www.artbreeder.com/)** – Blend and morph images collaboratively using generative networks.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Neural network visualizations and surreal artistic filters.
 - **[PaintsChainer](https://paintschainer.preferred.tech/index_en.html)** – AI auto-coloring tool for anime-style art.
